@@ -1,0 +1,6 @@
+gluonnlp
+mxnet
+leven
+mxboard
+nltk==3.2.5
+sacremoses
