@@ -2,5 +2,5 @@ gluonnlp
 mxnet
 leven
 mxboard
-nltk==3.2.5
+nltk==3.4.5
 sacremoses
